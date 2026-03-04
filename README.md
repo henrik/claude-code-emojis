@@ -1,6 +1,6 @@
 # Claude Code emojis
 
-Claude Code "emojis" for use in Slack or similar.
+Claude Code "emojis" for use in Slack or similar, featuring Clawd the pixel crab.
 
 "No copyright intended" as they say – if Anthropic mind, I will take this down.
 
