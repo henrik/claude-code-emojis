@@ -21,3 +21,9 @@ Animated by Claude from two human-made keyframes, via a Python script.
 ![](claude-hat.png)
 
 Cleaned up by Claude from a low-res screenshot.
+
+## claude-tokens.gif
+
+![](claude-tokens.gif)
+
+Animated by Claude from several human-made keyframes, via a Python script.
